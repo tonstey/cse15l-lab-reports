@@ -1,4 +1,4 @@
-*CSE 15L Lab*
+*CSE 15L Lab*\
 **this class is required**
 # Laundry
 ---
@@ -6,7 +6,7 @@
 - Bananas
 - Apples
 - Coconuts
---- 
+
 [Link](HTTP://youtube.com)
 
 
