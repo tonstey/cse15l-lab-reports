@@ -11,7 +11,7 @@ I got this output because there was no argument, so cd had nothing to redirect t
 
 
 **Command "cd" With Path to File Argument**\
-![Image]()\
+![Image](cdFile.png)\
 The terminal displayed the output "bash: cd: Hello.java: No such file or directory".\
 I got this output because the file that I chose was not a directory, so it was an invalid path to put as an argument.\
 
