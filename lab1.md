@@ -1,7 +1,7 @@
 # Lab Report 1
 
 **Command "cd" With No Arguments**\
-![Image](cdNo.png)\
+![Image]()\
 Nothing happened when I ran it. It prompts the user as if nothing happened.\
 I got this output because there was no argument, so cd had nothing to redirect to.\
 
@@ -27,7 +27,7 @@ I got this output because the file that I chose was not a directory, so it was a
 ![Image]()\
 
 **Command "cat" With No Arguments**\
-![Image]()\
+![Image](catNo.png)\
 
 **Command "cat" With Path to Directory as Argument**\
 ![Image]()\
