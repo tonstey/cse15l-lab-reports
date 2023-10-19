@@ -29,7 +29,7 @@ This output is not an error.
 [user@sahara ~]$ cd lecture1/Hello.class
 bash: cd: lecture1/Hello.class: Not a directory
 ```
-The working directory was still the root, /home.\
+The working directory was still the root, `/home`.\
 I got this output because the file that I chose was not a directory, so it was an invalid path to put as an argument.\
 This output is not an error.
 
