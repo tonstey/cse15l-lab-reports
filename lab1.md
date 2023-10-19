@@ -5,7 +5,7 @@
 [user@sahara ~]$ cd
 [user@sahara ~]$ 
 ```
-The working directory was still the root (/home) after running the command.\
+The working directory was still the root '/home' after running the command.\
 It prompts the user as if we changed the directory to the root.\
 I got this output because there was no argument, so cd had no directory to redirect to.\
 This output is not an error.
@@ -17,7 +17,7 @@ This output is not an error.
 [user@sahara ~]$ cd lecture1/messages
 [user@sahara ~/lecture1/messages]$ 
 ```
-The working directory was "~/lecture1/messages" after running the command.\
+The working directory was '~/lecture1/messages' after running the command.\
 I got this result because the path was an absolute path to a working directory.\
 This output is not an error.
 
