@@ -88,15 +88,21 @@ class StringServer {
 ```
 
 
-![Image][Lab2Hello.png]
+![Image][Lab2Hello.png] \
 The method that was called was the handleRequest method.\
 The argument for this method is the URL of the server.\
 There are two relevant fields to the method: str and num.\
 The values of these two are "" and 0, respectively.\
-After calling the method, the fields' values changed to "Hello" and 1, respectively.
+After calling the method, the fields' values changed to "1. Hello\n" and 1, respectively.
 
 
-![Image][Lab2HowAreYou.png]
+![Image][Lab2HowAreYou.png] \
+The method that was called was the handleRequest method.\
+The argument for this method is the URL of the server.\
+There are two relevant fields to the method: str and num.\
+The values of these two are "1. Hello\n" and 1, respectively.\
+After calling the method, the fields' values changed to \
+"1. Hello\n 2. How are you\n" and 2, respectively.
 
 **Part 2**
 
