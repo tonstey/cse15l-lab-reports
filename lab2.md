@@ -89,7 +89,8 @@ class StringServer {
 
 
 ![Image](Lab2Hello.png) \
-The method that was called was the handleRequest method.\
+The method that was called was the start method in the Server class,
+handleRequest method in the Handler class.\
 The argument for this method is the URL of the server.\
 There are two relevant fields to the method: str and num.\
 The values of these two are "" and 0, respectively.\
