@@ -89,7 +89,7 @@ class StringServer {
 
 
 ![Image](Lab2Hello.png) \
-The method that was called was the start method in the Server class,
+After starting the server, the method that was called was the \
 handleRequest method in the Handler class.\
 The argument for this method is the URL of the server.\
 There are two relevant fields to the method: str and num.\
@@ -98,7 +98,8 @@ After calling the method, the fields' values changed to "1. Hello\n" and 1, resp
 
 
 ![Image](Lab2HowAreYou.png) \
-The method that was called was the handleRequest method.\
+After starting the server, the method that was called was the \
+handleRequest method in the Handler class.\
 The argument for this method is the URL of the server.\
 There are two relevant fields to the method: str and num.\
 The values of these two are "1. Hello\n" and 1, respectively.\
@@ -116,7 +117,7 @@ After calling the method, the fields' values changed to \
 **Logging In Without Password** \
 ![Image](LoginNoPW.png) 
 
-## Part 3 \
+## Part 3 
 Something that I learned in Week 2 and Week 3 is how to run a server on a local computer.\
 After logging into a remote computer, we have to run code that allows us to run a server like\
 the code mentioned in Part 1. We have to run a server that runs on an individual port in order\
