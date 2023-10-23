@@ -1,7 +1,7 @@
 # Lab Report 2
 
 
-##Part 1##
+##Part 1
 
 ```
 import java.io.IOException;
@@ -105,18 +105,18 @@ The values of these two are "1. Hello\n" and 1, respectively.\
 After calling the method, the fields' values changed to \
 "1. Hello\n 2. How are you\n" and 2, respectively.
 
-##Part 2## 
+##Part 2 
 
 **Private Key**
-![Image](PrivateKey.png) \
+![Image](PrivateKey.png) 
 
 **Public Key**
-![Image](PublicKey.png) \
+![Image](PublicKey.png) 
 
 **Logging In Without Password**
-![Image](LoginNoPW.png) \
+![Image](LoginNoPW.png) 
 
-##Part 3## \
+##Part 3 \
 Something that I learned in Week 2 and Week 3 is how to run a server on a local computer.\
 After logging into a remote computer, we have to run code that allows us to run a server like\
 the code mentioned in Part 1. We have to run a server that runs on an individual port in order\
