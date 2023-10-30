@@ -3,9 +3,9 @@
 
 # Part 2 - Researching Commands
 
-1. -e Command Line Option
-Command
-`$ less -e find-results.txt`
+1. -e Command Line Option \
+Command \
+`$ less -e find-results.txt` \
 Output
 ```
 technical/911report
@@ -28,10 +28,10 @@ technical/911report/chapter-9.txt
 technical/911report/preface.txt
 find-results.txt (END)
 ```
-Using the -e command line on a file allows us to run the less command normally, but automatically exits once the end of the file is read by simply pressing another button rather than specifically pressing q to quit.
+Using the -e command line on a file allows us to run the less command normally, but automatically exits once the end of the file is read by simply pressing another button rather than specifically pressing q to quit. \
 
-Command
-`$ less -E technical/911report`
+Command \
+`$ less -E technical/911report` \
 Output
 ```
 technical/911report is a directory
