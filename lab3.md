@@ -41,8 +41,8 @@ $ less -E technical/911report
 ```
 technical/911report is a directory
 ```
-Using the -e command line on a directory is the same as using just the `less` command. Since the argument is not a file, it just says that the path is a directory. \
-\
+Using the -e command line on a directory is the same as using just the `less` command. Since the argument is not a file, it just says that the path is a directory. <br>
+<br>
 Source: https://phoenixnap.com/kb/less-command-in-linux <br>
 <br>
 
