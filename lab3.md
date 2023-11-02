@@ -3,7 +3,7 @@
 
 # Part 2 - Researching Commands
 
-1. -e Command Line Option \
+1. -e Command Line Option 
 
 **Command** \
 `$ less -e find-results.txt` \
@@ -39,7 +39,8 @@ technical/911report is a directory
 ```
 Using the -e command line on a directory is the same as using just the `less` command. Since the argument is not a file, it just says that the path is a directory. \
 \
-Source: https://phoenixnap.com/kb/less-command-in-linux 
+Source: https://phoenixnap.com/kb/less-command-in-linux \
+
 
 2. 
 
