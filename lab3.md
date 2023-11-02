@@ -4,6 +4,7 @@
 # Part 2 - Researching Commands
 
 1. -e Command Line Option \
+
 **Command** \
 `$ less -e find-results.txt` \
 **Output**
