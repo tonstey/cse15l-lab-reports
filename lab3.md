@@ -3,10 +3,10 @@
 
 # Part 2 - Researching Commands
 
-1. ## -e Command Line Option \
-Command \
+1. -e Command Line Option \
+**Command** \
 `$ less -e find-results.txt` \
-Output
+**Output**
 ```
 technical/911report
 technical/911report/chapter-1.txt
@@ -30,13 +30,13 @@ find-results.txt (END)
 ```
 Using the -e command line on a file allows us to run the less command normally, but automatically exits once the end of the file is read by simply pressing another button rather than specifically pressing q to quit. \
 
-Command \
+**Command** \
 `$ less -E technical/911report` \
-Output
+**Output**
 ```
 technical/911report is a directory
 ```
-Using the -e command line on a directory is the same as using just the `less` command. Since the argument is not a file, it just says that the path is a directory.
+Using the -e command line on a directory is the same as using just the `less` command. Since the argument is not a file, it just says that the path is a directory. \
 
 2. 
 
