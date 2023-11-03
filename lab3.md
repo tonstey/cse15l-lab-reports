@@ -70,7 +70,7 @@ contain any elements rather than the array we are trying to reverse.
 
 # Part 2 - Researching Commands
 
-1. -e Command Line Option 
+## -e Command Line Option 
 
 **Command** 
 ```
@@ -113,7 +113,7 @@ Using the -e command line on a directory is the same as using just the `less` co
 Source: https://phoenixnap.com/kb/less-command-in-linux <br>
 <br>
 
-2. -N Command Line Option
+## -N Command Line Option
 
 **Command** 
 ```
@@ -157,7 +157,7 @@ Using the -e command line on a directory is the same as using just the `less` co
 Source: https://phoenixnap.com/kb/less-command-in-linux <br>
 <br>
 
-3. -f Command Line Option
+## -f Command Line Option
 
 **Command** 
 ```
@@ -224,7 +224,7 @@ Using the -f command line on a directory forces less to be used on a directory. 
 Source: https://phoenixnap.com/kb/less-command-in-linux <br>
 <br>
 
-4. -F Command Line Option
+## -F Command Line Option
 
 **Command** 
 ```
