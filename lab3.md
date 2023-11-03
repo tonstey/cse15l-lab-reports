@@ -1,5 +1,49 @@
 
 # Part 1 - Bugs
+Failing-Inducing Input:
+```
+ static int[] reversed(int[] arr) {
+
+    int[] newArray = new int[arr.length];
+    
+    for(int i = 0; i < arr.length; i += 1) {
+      newArray[arr.length - i - 1] = arr[i];
+    }
+    return newArray;
+  }
+
+  @Test
+  public void testReversedValues(){
+    int[] input1 = {1, 2, 3};
+    assertArrayEquals(new int[]{3, 2, 1}, ArrayExamples.reversed(input1));
+  }
+
+```
+Input That Doesn't Produce Failure:
+```
+ static int[] reversed(int[] arr) {
+
+    int[] newArray = new int[arr.length];
+    
+    for(int i = 0; i < arr.length; i += 1) {
+      newArray[arr.length - i - 1] = arr[i];
+    }
+    return newArray;
+  }
+  @Test
+  public void testReversedValues(){
+    int[] input1 = {null};
+    assertArrayEquals(new int[]{null}, ArrayExamples.reversed(input1));
+  }
+
+```
+Symptom:
+```
+```
+Bug:
+```
+```
+The fix addresses the bugs because
 
 # Part 2 - Researching Commands
 
