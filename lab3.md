@@ -1,6 +1,6 @@
 
 # Part 1 - Bugs
-Failing-Inducing Input:
+## Failing-Inducing Input:
 ```
  static int[] reversed(int[] arr) {
 
@@ -19,7 +19,7 @@ Failing-Inducing Input:
   }
 
 ```
-Input That Doesn't Produce Failure:
+## Input That Doesn't Produce Failure:
 ```
  static int[] reversed(int[] arr) {
 
@@ -37,13 +37,35 @@ Input That Doesn't Produce Failure:
   }
 
 ```
-Symptom:
+## Symptom:
+![Image](Lab3Symptom.png)
+## Bug:
+**Before**
 ```
+  static int[] reversed(int[] arr) {
+
+    int[] newArray = new int[arr.length];
+    
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = newArray[arr.length - i - 1];
+    }
+    return newArray;
+  }
 ```
-Bug:
+**After**
 ```
+  static int[] reversed(int[] arr) {
+
+    int[] newArray = new int[arr.length];
+    
+    for(int i = 0; i < arr.length; i += 1) {
+      newArray[arr.length - i - 1] = arr[i];
+    }
+    return newArray;
+  }
 ```
-The fix addresses the bugs because
+The fix addresses the bugs because the method is trying to reverse the new array created in the method which doesn't\
+contain any elements rather than the array we are trying to reverse.
 
 # Part 2 - Researching Commands
 
