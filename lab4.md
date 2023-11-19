@@ -6,7 +6,7 @@
 ```
 ssh cs15lfa23dj@ieng6.ucsd.edu
 ```
-**Keys Pressed:** 
+**Keys Pressed:** \
 This command was manually typed in.
 
 
@@ -26,7 +26,7 @@ I searched through the bash history 10 commands up and pressed enter to run it.
 ```
 cd lab7
 ```
-**Keys Pressed:** 
+**Keys Pressed:** \
 This command was manually typed in.
 ```
 bash test.sh
@@ -45,7 +45,7 @@ vim ListExamples.java
 I searched through the bash history 11 commands up and pressed enter to run the command.
 
 ![image](Step7Pt2.png)
-**Keys Pressed to Edit:**
+**Keys Pressed to Edit:** \
 I pressed <j> to lower the cursor by 1 line. Then, I pressed <x> to remove the character '1' from 'index1'. \
 Then I pressed \<i> to go into insert mode. Finally, I pressed <2> to replace the '1' and pressed 'esc' to go to \
 normal mode. To exit, I will press <:>\<w>\<q><!><enter> to save and exit the file.
