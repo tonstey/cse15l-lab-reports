@@ -16,8 +16,8 @@ This command was manually typed in.
 ```
 git clone
 ```
-**Keys Pressed:** 
-<up><up><up><up><up><up><up><up><up><up><enter> \
+**Keys Pressed:** \
+\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<enter> \
 I searched through the bash history 10 commands up and pressed enter to run it.
 
 ## Step 6
