@@ -38,7 +38,7 @@ I searched through the bash history 11 commands up and pressed enter to run the 
 **Keys Pressed to Edit:**
 I pressed <j> to lower the cursor by 1 line. Then, I pressed <x> to remove the character '1' from 'index1'. \
 Then I pressed <i> to go into insert mode. Finally, I pressed <2> to replace the '1' and pressed 'esc' to go to \
-normal mode. To exit, I will press <:><w><q><!><enter> to save and exit the file.
+normal mode. To exit, I will press <:><w><q><\!><enter> to save and exit the file.
 
 
 ## Step 8
