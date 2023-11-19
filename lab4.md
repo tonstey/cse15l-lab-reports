@@ -67,7 +67,7 @@ git commit
 <up><up><up><up><up><up><up><up><up><up><up><enter> \
 I searched through the bash history 11 commands up and pressed enter to run it.
 To insert the commit message, I pressed <i>, then inputted a message of my choice, \
-pressed <esc> to enter normal mode, and pressed <:><w><q><!><enter> to save the message and exitted.
+pressed <esc> to enter normal mode, and pressed <:>\<w>\<q><!><enter> to save the message and exitted.
 
 ![image]()
 ```
