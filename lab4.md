@@ -31,8 +31,8 @@ This command was manually typed in.
 ```
 bash test.sh
 ```
-**Keys Pressed:**
-<up><up><up><up><up><up><up><enter> \
+**Keys Pressed:** \
+\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<enter> \
 I searched through the bash history, so I pressed up 7 times to view the recent call of bash and pressed enter to run it.
 
 ## Step 7
@@ -40,8 +40,8 @@ I searched through the bash history, so I pressed up 7 times to view the recent 
 ```
 vim ListExamples.java
 ```
-**Keys Pressed:**
-<up><up><up><up><up><up><up><up><up><up><up><enter> \
+**Keys Pressed:** \
+\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<enter> \
 I searched through the bash history 11 commands up and pressed enter to run the command.
 
 ![image](Step7Pt2.png)
@@ -56,8 +56,8 @@ normal mode. To exit, I will press <:>\<w>\<q><!><enter> to save and exit the fi
 ```
 bash test.sh
 ```
-**Keys Pressed:**
-<up><up><enter> \
+**Keys Pressed:** \
+\<up>\<up>\<enter> \
 I searched through the bash history 2 commands up and pressed enter to run the command.
 
 
@@ -67,16 +67,16 @@ I searched through the bash history 2 commands up and pressed enter to run the c
 ```
 git add ListExamples.java
 ```
-**Keys Pressed:**
-<up><up><up><up><up><up><up><up><up><up><up><enter> \
+**Keys Pressed:** \
+\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<enter> \
 I searched through the bash history 11 commands up and pressed enter to run it.
 
 ![image](Step9Pt2.png)
 ```
 git commit
 ```
-**Keys Pressed:**
-<up><up><up><up><up><up><up><up><up><up><up><enter> \
+**Keys Pressed:** \
+\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<enter> \
 I searched through the bash history 11 commands up and pressed enter to run it.
 To insert the commit message, I pressed \<i>, then inputted a message of my choice, \
 pressed <esc> to enter normal mode, and pressed <:>\<w>\<q><!><enter> to save the message and exitted.
@@ -85,6 +85,6 @@ pressed <esc> to enter normal mode, and pressed <:>\<w>\<q><!><enter> to save th
 ```
 git push
 ```
-**Keys Pressed:**
-<up><up><up><up><up><up><up><up><up><up><up><enter> \
+**Keys Pressed:** \
+\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<up>\<enter> \
 I searched through the bash history 11 commands up and pressed enter to run it.
