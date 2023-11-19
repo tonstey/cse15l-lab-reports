@@ -3,7 +3,9 @@
 ## Step 4
 ![image](Step4.png)
 **Command Run:**
-```ssh cs15lfa23dj@ieng6.ucsd.edu```
+```
+ssh cs15lfa23dj@ieng6.ucsd.edu
+```
 **Keys Pressed:** 
 This command was manually typed in.
 
@@ -11,7 +13,9 @@ This command was manually typed in.
 ## Step 5
 ![image](Step5.png)
 **Command Run:**
-```git clone ```
+```
+git clone
+```
 **Keys Pressed:** 
 <up><up><up><up><up><up><up><up><up><up><enter> \
 I searched through the bash history 10 commands up and pressed enter to run it.
@@ -19,17 +23,23 @@ I searched through the bash history 10 commands up and pressed enter to run it.
 ## Step 6
 ![image](Step6.png)
 **Commands Run:**
-```cd lab7```
+```
+cd lab7
+```
 **Keys Pressed:** 
 This command was manually typed in.
-```bash test.sh```
+```
+bash test.sh
+```
 **Keys Pressed:**
 <up><up><up><up><up><up><up><enter> \
 I searched through the bash history, so I pressed up 7 times to view the recent call of bash and pressed enter to run it.
 
 ## Step 7
 ![image](Step7Pt1.png)
-```vim ListExamples.java```
+```
+vim ListExamples.java
+```
 **Keys Pressed:**
 <up><up><up><up><up><up><up><up><up><up><up><enter> \
 I searched through the bash history 11 commands up and pressed enter to run the command.
@@ -43,7 +53,9 @@ normal mode. To exit, I will press <:>\<w>\<q><!><enter> to save and exit the fi
 
 ## Step 8
 ![image](Step8.png)
-```bash test.sh```
+```
+bash test.sh
+```
 **Keys Pressed:**
 <up><up><enter> \
 I searched through the bash history 2 commands up and pressed enter to run the command.
