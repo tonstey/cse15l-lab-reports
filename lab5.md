@@ -24,7 +24,7 @@ File & Directory:
 - test.sh (Files)
 
 
-Code: \
+Code: 
 ```
 import static org.junit.Assert.*;
 import org.junit.*;
@@ -76,5 +76,7 @@ Editted ```result.add(0, s)``` to ```result.add(s)```
 
 
 ## Part 2 - Reflection
-I think one of the most interesting things that I learned this quarter was Vim. I think that with the knowledge of using this program,
-I can do anything with just the use of a terminal.
+I think that one of the most interesting things that I learned this quarter was Vim. I think that with the \ 
+knowledge of using this program, I can do anything with just the use of a terminal. I think that this \
+lesson was definitely interesting and liked how it was the whole premise of Skill Demo 4. I am really \ 
+glad that that was part of the curriculum this quarter!
