@@ -17,8 +17,8 @@ each element if stringChecker returns true.
 Thank you, TA! I was able to figure out what the bug/failure-inducing input was. It was an error from the filter method! \
 For each string that contained "a", I sent it to the beginning of the array instead of appending it. Thank you for your help!
 
-**Information**
-File & Directory: \
+**Information** \
+File & Directory: 
 - Java (Directory)
 - ListTestExamples.java (Files)
 - test.sh (Files)
