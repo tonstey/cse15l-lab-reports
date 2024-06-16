@@ -39,7 +39,7 @@
 
 ```
 ## Symptom:
-![Image](Lab3Symptom.png)
+![Image](images/lab3/Lab3Symptom.png)
 ## Bug:
 **Before**
 ```
