@@ -3,7 +3,7 @@
 ## Part 1 - Debugging Scenario
 **Student**: 
 I am trying to figure out what the problem with the following code is:
-![image](lab5.png)
+![image](images/lab5/lab5.png)
 
 It seems that this code does not have the desired order of each array element. \
 Could it possibly happen from how the string checker is called?
