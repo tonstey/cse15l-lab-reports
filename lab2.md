@@ -88,7 +88,7 @@ class StringServer {
 ```
 
 
-![Image](Lab2Hello.png) \
+![Image](images/lab2/Lab2Hello.png) \
 After starting the server, the method that was called was the \
 handleRequest method in the Handler class.\
 The argument for this method is the URL of the server.\
@@ -97,7 +97,7 @@ The values of these two are "" and 0, respectively.\
 After calling the method, the fields' values changed to "1. Hello\n" and 1, respectively.
 
 
-![Image](Lab2HowAreYou.png) \
+![Image](images/lab2/Lab2HowAreYou.png) \
 After starting the server, the method that was called was the \
 handleRequest method in the Handler class.\
 The argument for this method is the URL of the server.\
@@ -109,13 +109,13 @@ After calling the method, the fields' values changed to \
 ## Part 2 
 
 **Private Key** \
-![Image](PrivateKey.png) 
+![Image](images/lab2/PrivateKey.png) 
 
 **Public Key** \
-![Image](PublicKey.png) 
+![Image](images/lab2/PublicKey.png) 
 
 **Logging In Without Password** \
-![Image](LoginNoPW.png) 
+![Image](images/lab2/LoginNoPW.png) 
 
 ## Part 3 
 Something that I learned in Week 2 and Week 3 is how to run a server on a local computer.\
